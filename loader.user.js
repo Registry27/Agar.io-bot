@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        AposLoader
-// @namespace   AposLoader
+// @name        İBOREYİZ
+// @namespace   İBOREYİZ
 // @description Grabs latest versions of the bot scripts automatically.
-// @include     http://agar.io/
+// @include     http://agario.volismt2.com/
 // @version     1.3
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
