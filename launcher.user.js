@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        AposLauncher
-// @namespace   AposLauncher
-// @include     http://agar.io/*
+// @name        İBOREYİZ
+// @namespace   İBOREYİZ
+// @include     http://agario.volismt2.com/*
 // @version     3.052
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
